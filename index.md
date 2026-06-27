@@ -1,14 +1,116 @@
-# Road Runner Logistics
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Road Runner Logistics | Reliable Logistics Solutions</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="top-bar">
+            <div class="container">
+                <div class="contact-info">
+                    <span>📞 +607 5599744</span>
+                    <span>✉️ ops@roadrunnerlogistics.my</span>
+                </div>
+                <div class="hours">🕒 Mon - Fri: 9am - 6pm</div>
+            </div>
+        </div>
+        <nav class="navbar">
+            <div class="container">
+                <div class="logo">
+                    <img src="https://via.placeholder.com/150x50?text=Road+Runner" alt="Road Runner Logistics">
+                </div>
+                <ul class="nav-links">
+                    <li><a href="#" class="active">Home</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Guidelines</a></li>
+                    <li><a href="#">Downloads</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                </ul>
+                <a href="#" class="btn btn-primary">REQUEST A QUOTE</a>
+            </div>
+        </nav>
+    </header>
 
-Move Us With Trust
+    <main>
+        <section class="hero">
+            <div class="container">
+                <div class="hero-content">
+                    <h1>Move Us With Trust</h1>
+                    <p>Reliable & Efficient Logistics Solutions<br>Across Malaysia, Singapore & Indonesia</p>
+                    <div class="hero-stats">
+                        <div class="stat-item"><span>📅</span> Since 2004</div>
+                        <div class="stat-item"><span>🌐</span> Regional Coverage</div>
+                        <div class="stat-item"><span>🛡️</span> Trusted Service</div>
+                        <div class="stat-item"><span>🚚</span> On-Time Delivery</div>
+                    </div>
+                    <div class="hero-actions">
+                        <a href="#" class="btn btn-primary">REQUEST A QUOTE →</a>
+                        <a href="#" class="btn btn-outline">OUR SERVICES</a>
+                    </div>
+                </div>
+            </div>
+        </section>
 
-/---- This is the Main Page ----/
-Move Us With Trust"
-Established in 2004, Road Runner Logistics are actively involved in Multi-Model Transportation of cargo To and From Malaysia. Road Runner Logistics controls a large number of fleets serving all strategic locations in Malaysia, and the neighboring countries such as Singapore at a very affordable rate. Our facilities include Flatbed trailers, Covered trailers and Low-bed trailers. Road Runner Logistics also provide terminal facilities for the truck."
-About Us
-Road Runner Logistics offers secured warehouse facilities. Our facilities in Quality Road in Singapore is ready for cold storage cargo. Road Runner Logistics can meet all of your logistic operation in one center such as receiving of cargo, Packing & Crating, Consolidation, Cross-stuffing, De-consolidation, Labeling storage, Pick & Delivery etc."
-Best Freight Forwarding Company Services
-Road Runner Logistics have special awareness about the requirement of each Importers, Exporters, Industries and Individuals. So Road Runner Logistics are able to provide a complete package related to cargo movement. Apart of that, we also provide rush handling or urgent handcarry needs across the interstate. "
-Mission
-Road Runner Logistics is in business to focus on giving our customers exceptional high quality customer service, timely responsiveness and committed solutions. We take seriously the high valued trust which each customer places with our capabilities. Road Runner Logistics's goal is to move the customer's goods, whether business or personal, to the proper destination to the best of our abilities. Road Runner Logistics continues to align itself to meet the challenges of an ever-changing world of transportation. This is our pledge to you!
-We also handles cargo to and from Singapore and Batam, Bintan, Karimun, and other part of Indonesia. With "Move us with Trust" as our motto, Road Runner Logistics had gained recognition as a reliable service provider amongst many in t
+        <section class="welcome">
+            <div class="container">
+                <div class="welcome-grid">
+                    <div class="welcome-text">
+                        <h3>WELCOME TO</h3>
+                        <h2>Road Runner Logistics</h2>
+                        <p>Established in 2004, Road Runner Logistics is a trusted logistics provider offering freight forwarding, warehousing and transportation services. We deliver reliable, cost-effective and tailored solutions to businesses of all sizes.</p>
+                        <a href="#" class="btn-link">LEARN MORE ABOUT US →</a>
+                    </div>
+                    <div class="stats-grid">
+                        <div class="stat-card"><h3>20+</h3><p>Years of Experience</p></div>
+                        <div class="stat-card"><h3>1000+</h3><p>Satisfied Customers</p></div>
+                        <div class="stat-card"><h3>3</h3><p>Countries Served</p></div>
+                        <div class="stat-card"><h3>24/7</h3><p>Support & Service</p></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="services">
+            <div class="container">
+                <h2>What We Offer</h2>
+                <div class="services-grid">
+                    <article class="service-card">
+                        <h3>Freight Forwarding</h3>
+                        <p>Cross-border and international freight solutions by road, sea and air.</p>
+                        <a href="#">LEARN MORE →</a>
+                    </article>
+                    <article class="service-card">
+                        <h3>Warehousing & Distribution</h3>
+                        <p>Secure storage, inventory management and efficient distribution.</p>
+                        <a href="#">LEARN MORE →</a>
+                    </article>
+                    <article class="service-card">
+                        <h3>Sea Freight</h3>
+                        <p>FCL, LCL and project cargo services to major ports worldwide.</p>
+                        <a href="#">LEARN MORE →</a>
+                    </article>
+                    <article class="service-card">
+                        <h3>Air Freight</h3>
+                        <p>Fast and reliable air freight services for time-sensitive shipments.</p>
+                        <a href="#">LEARN MORE →</a>
+                    </article>
+                    <article class="service-card">
+                        <h3>Project Cargo</h3>
+                        <p>End-to-end handling of project cargo with specialized equipment and expertise.</p>
+                        <a href="#">LEARN MORE →</a>
+                    </article>
+                    <article class="service-card">
+                        <h3>Customs Clearance</h3>
+                        <p>Professional customs clearance and compliance support.</p>
+                        <a href="#">LEARN MORE →</a>
+                    </article>
+                </div>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
