@@ -46,7 +46,7 @@ body { font-family: 'Segoe UI', sans-serif; line-height: 1.6; color: var(--text-
         url("/assets/css/pic31.jpg");
 
     background-size:cover;
-    background-position:89% center;
+    background-position:92% center;
     background-repeat:no-repeat;
 
     color:#fff;
@@ -60,6 +60,7 @@ body { font-family: 'Segoe UI', sans-serif; line-height: 1.6; color: var(--text-
 
 .hero-content{
     width:32%;
+    max-width:450px;
     z-index:2;
 }
 
