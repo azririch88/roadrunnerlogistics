@@ -43,7 +43,7 @@ body { font-family: 'Segoe UI', sans-serif; line-height: 1.6; color: var(--text-
             rgba(10,37,64,.20) 80%,
             rgba(10,37,64,0) 100%
         ),
-        url("../images/hero-truck.jpg");
+        url("../images/truck.jpg");
 
     background-size:cover;
     background-position:center right;
