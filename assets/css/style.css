@@ -43,7 +43,7 @@ body { font-family: 'Segoe UI', sans-serif; line-height: 1.6; color: var(--text-
             rgba(10,37,64,.20) 80%,
             rgba(10,37,64,0) 100%
         ),
-        url("assets/images/pic31.jpg");
+        url("http://roadrunnerlogistics.my/assets/css/pic31.jpg");
 
     background-size:cover;
     background-position:center right;
