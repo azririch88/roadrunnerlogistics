@@ -31,7 +31,7 @@ body { font-family: 'Segoe UI', sans-serif; line-height: 1.6; color: var(--text-
 .hero{
     position:relative;
     display:flex;
-    align-items:left center;
+    align-items: center;
     min-height:550px;
 
     background:
